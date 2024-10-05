@@ -34,11 +34,11 @@ I'm a passionate developer specializing in XR (Extended Reality) and web applica
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hellishdream&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hellishdream&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📌 Pinned Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name)](https://github.com/your-username/repo-name)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name)](https://github.com/your-username/repo-name)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Hellishdream&repo=repo-name)](https://github.com/your-username/repo-name)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Hellishdream&repo=repo-name)](https://github.com/your-username/repo-name)
 
 ---
 
