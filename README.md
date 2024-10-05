@@ -31,7 +31,7 @@ I'm a passionate developer specializing in XR (Extended Reality) and web applica
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats]([https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=Hellishdream&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
