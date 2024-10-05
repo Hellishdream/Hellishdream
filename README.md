@@ -37,7 +37,7 @@ I'm a passionate developer specializing in XR (Extended Reality) and web applica
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hellishdream&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📌 Pinned Repositories
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Hellishdream&UTM1.O)](https://github.com/Hellishdream/UTM1.O)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Hellishdream&repo=objecttrack)](https://github.com/Hellishdream/objecttrack)
 
 
 ---
