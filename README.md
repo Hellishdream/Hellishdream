@@ -1,45 +1,72 @@
-# 👋 Hi there, I'm Varun!
+<h1 align="center">👋 Hi there, I'm Varun!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=XR+Developer;Web+Application+Developer;Passionate+Problem+Solver&center=true&width=380&height=45">
+</p>
 
 ## 🚀 About Me
-I'm a passionate developer specializing in XR (Extended Reality) and web applications. With a strong foundation in both front-end and back-end technologies, I love creating immersive experiences and robust web solutions.
+
+I'm a passionate developer specializing in XR (Extended Reality) and web applications. With a strong foundation in both front-end and back-end technologies, I love creating immersive experiences and robust web solutions. My goal is to push the boundaries of what's possible in XR and web development.
 
 ## 💻 Tech Stack
-- **Web Development:** HTML, CSS, JavaScript, Next.js
-- **XR Development:** Unity, C#
-- **Programming Languages:** Python, C#
-- **Version Control:** Git
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js" alt="Next.js">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ## 🌟 Key Skills
+
 - XR Application Development
 - Web Application Development
 - Strong Communication Skills
 - Problem Solving
 - Collaborative Teamwork
 
-## 🔧 Tools & Frameworks
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+## 🔥 My Stats
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-salian-4aba7a2a0/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hellishdream&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Hellishdream&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hellishdream&theme=radical" alt="GitHub Streak" />
+</p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hellishdream&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📌 Pinned Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Hellishdream&repo=objecttrack)](https://github.com/Hellishdream/objecttrack)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hellishdream&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Hellishdream/objecttrack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hellishdream&repo=objecttrack&theme=radical" alt="objecttrack" />
+  </a>
+</p>
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-salian-4aba7a2a0/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-💼 Open for exciting projects and collaborations. Let's create something amazing together!
+<p align="center">
+  💼 Open for exciting projects and collaborations. Let's create something amazing together!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hellishdream&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p>
