@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi there, I'm Varun!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=XR+Developer;Web+Application+Developer;Passionate+Problem+Solver&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=XR+Developer;Web+Application+Developer;Passionate+Problem+Solver;Unity+Enthusiast&center=true&width=380&height=45">
 </p>
 
 ## 🚀 About Me
 
-I'm a passionate developer specializing in XR (Extended Reality) and web applications. With a strong foundation in both front-end and back-end technologies, I love creating immersive experiences and robust web solutions. My goal is to push the boundaries of what's possible in XR and web development.
+I'm a passionate developer specializing in XR (Extended Reality) and web applications. With a strong foundation in both front-end and back-end technologies, I love creating immersive experiences and robust web solutions. My goal is to push the boundaries of what's possible in XR and web development, while constantly learning and adapting to new technologies.
 
 ## 💻 Tech Stack
 
@@ -19,15 +19,17 @@ I'm a passionate developer specializing in XR (Extended Reality) and web applica
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </p>
 
 ## 🌟 Key Skills
 
-- XR Application Development
-- Web Application Development
-- Strong Communication Skills
-- Problem Solving
-- Collaborative Teamwork
+- 🕶️ XR Application Development
+- 🌐 Web Application Development
+- 💬 Strong Communication Skills
+- 🧠 Problem Solving & Critical Thinking
+- 🤝 Collaborative Teamwork
+- 📚 Continuous Learning
 
 ## 🔥 My Stats
 
@@ -37,6 +39,10 @@ I'm a passionate developer specializing in XR (Extended Reality) and web applica
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hellishdream&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellishdream&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
@@ -53,11 +59,23 @@ I'm a passionate developer specializing in XR (Extended Reality) and web applica
   </a>
 </p>
 
+## 🌱 Current Learning Goals
+
+- Advanced AR/VR development techniques
+- Exploring WebXR and its potential applications
+- Deepening knowledge in AI and machine learning for XR
+
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varun-salian-4aba7a2a0/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your_twitter_handle">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://your-portfolio-website.com">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
