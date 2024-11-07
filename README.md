@@ -81,9 +81,7 @@ I'm a passionate developer specializing in XR (Extended Reality) and web applica
 
 ---
 
-<p align="center">
-  💼 Open for exciting projects and collaborations. Let's create something amazing together!
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hellishdream&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
